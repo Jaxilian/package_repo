@@ -1,1 +1,4 @@
-test
+{
+  "test": "otherlink",
+  "vfs": "https://github.com/Jaxilian/vfs"
+}
